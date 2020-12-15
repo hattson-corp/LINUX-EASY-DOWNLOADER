@@ -24,5 +24,5 @@ while True:
     link = input("\nEnter the download link >>> ")
     download(link)
     sleep(5)
-    print("\a\a\a\a\a\a\a\a Your download is done! I'm ready for next one.")
+    print("\a\a Your download is done! I'm ready for next one.")
 
